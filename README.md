@@ -45,7 +45,10 @@ This project demonstrates a basic GIS flood susceptibility assessment workflow u
 
 ## Results
 
-The analysis identified high flood susceptibility zones concentrated in the low-lying western part of Selangor, particularly areas within 500m of major waterways and near the coastline.The final map and outputs provide spatial location of potential flood hotspots for further validation and planning.
+The analysis identified high flood susceptibility zones concentrated in the low-lying western part of Selangor, particularly areas within 500m of major waterways and near the coastline. The final map and outputs provide spatial location of potential flood hotspots for further validation and planning.
+
+![Flood Susceptibility Map for Selangor](Selangor_Flood_Susceptibility_Map.PNG.png)
+*Fig 1: Flood risk zones in western Selangor within 500m of waterways*
 
 ## Project Limitation
 
